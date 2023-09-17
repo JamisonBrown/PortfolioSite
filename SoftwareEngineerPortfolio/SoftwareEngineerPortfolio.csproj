@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\.sass-cache\04e70ddc05d7e6b22cde1a4f36007e26ce252dd4\basic-setup.scssc" />
+    <None Include="wwwroot\assets\.sass-cache\0fbc94dea02a3138519b89decd96fa72b50c33f7\footer.scssc" />
+    <None Include="wwwroot\assets\.sass-cache\0fbc94dea02a3138519b89decd96fa72b50c33f7\header.scssc" />
+    <None Include="wwwroot\assets\.sass-cache\0fbc94dea02a3138519b89decd96fa72b50c33f7\section.scssc" />
+    <None Include="wwwroot\assets\.sass-cache\0fbc94dea02a3138519b89decd96fa72b50c33f7\slider.scssc" />
+    <None Include="wwwroot\assets\.sass-cache\707e91e4f609c06b5639522aef09917d5278325b\style.scssc" />
+    <None Include="wwwroot\assets\.sass-cache\707e91e4f609c06b5639522aef09917d5278325b\_variable.scssc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\assets\images\user\" />
+  </ItemGroup>
+
+</Project>
